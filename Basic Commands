@@ -124,4 +124,4 @@ The login_date column in the log_in_attempts table contains information on the d
 +----------+----------+------------+------------+---------+-----------------+---------+
 75 rows in set (0.001 sec)
 
-This example shows the use of the 'OR' command
+**This example shows the use of the 'OR' command**
