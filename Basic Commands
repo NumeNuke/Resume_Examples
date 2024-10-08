@@ -31,4 +31,4 @@ WHERE login_attempts > '18:00' AND success = FALSE ;
 |      199 | yappiah  | 2022-05-11 | 19:34:48   | MEXICO  | 192.168.44.232  |       0 |
 +----------+----------+------------+------------+---------+-----------------+---------+
 19 rows in set (0.192 sec) 
-**This demontrates the usage of the SELECT,FROM,WHERE,and AND**
+**This demontrates the usage of the SELECT,FROM,WHERE,and AND additionally the > synbol **
